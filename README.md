@@ -1,5 +1,5 @@
-# Excel-Dashboard-
-Churn rate Dashboard using Excel
+# Churn rate Dashboard
+
 
 Creating a dashboard by investigate a dataset from an example telecom company Datable and analyze their churn rates.
 
